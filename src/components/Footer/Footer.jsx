@@ -72,21 +72,21 @@ const Footer = () => {
               <ListGroup className="footer__contact">
                 <ListGroupItem className="ps-0 border-0 d-flex align-item-center gap-2">
                   <span>
-                    <i class="ri-map-pin-line"></i>
+                    <i className="ri-map-pin-line"></i>
                   </span>
                   <p>686587 Kochi Kerala India</p>
                 </ListGroupItem>
 
                 <ListGroupItem className="ps-0 border-0 d-flex align-item-center gap-2">
                   <span>
-                    <i class="ri-phone-line"></i>
+                    <i className="ri-phone-line"></i>
                   </span>
                   <p>+91-9072278138</p>
                 </ListGroupItem>
 
                 <ListGroupItem className="ps-0 border-0 d-flex align-item-center gap-2">
                   <span>
-                    <i class="ri-mail-line"></i>
+                    <i className="ri-mail-line"></i>
                   </span>
                   <p>sankar007@gmail.com</p>
                 </ListGroupItem>
