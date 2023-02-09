@@ -37,6 +37,7 @@
     }
     .service_item {
       padding: 10px;
+      margin-bottom: 1.5rem;
     }
 }
     @media only screen and (max-width:768px) {
@@ -47,10 +48,14 @@
         
         }
         .service_item {
-           margin-bottom: 1.5rem;
+         
           }   
       
 }
 @media only screen and (max-width:576px) {
-   
+    .service_item span i{
+       
+        padding: 10px;
+    
+    }
 }

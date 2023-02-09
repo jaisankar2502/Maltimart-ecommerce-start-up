@@ -11,8 +11,9 @@
     background: transparent;
 
 }
-.footer__quick-link ul li a{
-    color: rgba(255, 255, 255, 0.735);
+.footer__quick-link ul li a {
+    color:rgba(255, 255, 255, 0.735);  
+    font-size: 1.2rem;
 
 }
 .quick__link-title{
@@ -34,4 +35,9 @@ color: rgba(255, 255, 255, 0.735);
     font-size: .9rem;
     margin-top: 50px;
     text-align: center;
+}
+.footer__quick-link i{
+
+color:rgba(255, 255, 255, 0.735);  
+    font-size: 1.2rem;
 }
